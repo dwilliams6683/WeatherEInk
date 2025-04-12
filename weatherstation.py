@@ -8,7 +8,7 @@ from datetime import datetime
 from waveshare_epd import epd7in5b_V2
 
 # ===== CONFIG =====
-WU_API_KEY = "a6125c54c8274250925c54c827a250de"
+WU_API_KEY = ""
 WU_STATION_ID = "KVANORFO488"
 LOCATION = "Norfolk, VA"
 LATITUDE = 36.8507  # Replace with your coordinates
